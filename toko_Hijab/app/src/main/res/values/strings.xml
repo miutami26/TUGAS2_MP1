@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">toko_Hijab</string>
+    <string name="profile_name">Wahyu Utami</string>
+    <string name="profile_username">Utami</string>
+
+
+    <string name="content_text">Jilbab Bahan Diamond</string>
+    <string name="content_specs_size">170cm ( Panjang ) X 70cm ( Lebar )</string>
+    <string name="content_specs_jilbab">Bahan Diamond Hight Quality Tekstur kain mirip kulit jeruk Bahannya sangat lembut dan lentur sehingga sangat mudah menyesuikan bentuk wajah
+            Tidak panas di gunakan Bisa di model sesuai selera anda Bisa di model sesuai selera yang di inginkan
+            Ujung tepi di jahit rapi Produk original, Produksi sendiri</string>
+    <string name="content_specs_price">RP 21.000</string>
+
+</resources>
